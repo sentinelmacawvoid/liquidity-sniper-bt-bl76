@@ -1,4 +1,4 @@
-# 
+# instant MEV sniper bot scripts is the best MEV sniper bot scripts with gas-optimization and volume-spike-detection. Safe, reliable, and optimized for MEV, sniper, and arbitrage
 
 
 
